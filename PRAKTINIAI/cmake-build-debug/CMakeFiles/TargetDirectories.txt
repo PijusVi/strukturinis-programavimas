@@ -1,0 +1,4 @@
+C:/Users/Pijazzas/CLionProjects/PRAKTINIAI/cmake-build-debug/CMakeFiles/Praktinis1.dir
+C:/Users/Pijazzas/CLionProjects/PRAKTINIAI/cmake-build-debug/CMakeFiles/Praktinis2.dir
+C:/Users/Pijazzas/CLionProjects/PRAKTINIAI/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Pijazzas/CLionProjects/PRAKTINIAI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
